@@ -1,0 +1,26 @@
+{
+  "name": "npm-demo-licarowin",
+  "version": "1.0.0",
+  "description": "npm demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build  src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/npm-demo-LiCarowin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/npm-demo-LiCarowin/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/npm-demo-LiCarowin#readme",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
